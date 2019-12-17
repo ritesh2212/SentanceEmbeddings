@@ -7,5 +7,5 @@ This repository contains various type of Word Embeddings to represent sentences
   
   Word2Vec
   
-  LSH with Jaccard and Cosine
+  LSH with Jaccard and Cosine(For sentance Similarity)
 
